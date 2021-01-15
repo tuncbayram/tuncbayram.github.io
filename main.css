@@ -33,3 +33,6 @@
     opacity: 0.7;
 }
 
+.module {
+    cursor: url('cur.png'), auto;	
+  }
